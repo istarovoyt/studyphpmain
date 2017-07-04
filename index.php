@@ -13,5 +13,12 @@
 
     echo "<br>";
 
-    //
+    //Функция substr - возвращает подстроку в заданной строке
+    $str_2 = "Something string";
+    $res_2 = substr($str_2, 10, 3);
+    echo $res_2;
+
+    echo "<br>"
+
+
 ?>
